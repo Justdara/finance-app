@@ -14,9 +14,9 @@ const Cards = () => {
           <h2 className="text-2xl font-bold text-center py-8">Free Plan</h2>
           <p className="text-center text-4xl font-bold">$0</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">Expense Tracking</p>
+            <p className="py-2 border-b mx-8">Basic Budgeting</p>
+            <p className="py-2 border-b mx-8">Reports and Insights</p>
           </div>
           <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
@@ -31,9 +31,9 @@ const Cards = () => {
           <h2 className="text-2xl font-bold text-center py-8">Standard Plan</h2>
           <p className="text-center text-4xl font-bold">$99</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">Advanced Budgeting</p>
+            <p className="py-2 border-b mx-8">Savings Goals</p>
+            <p className="py-2 border-b mx-8">Export Data</p>
           </div>
           <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
@@ -48,9 +48,9 @@ const Cards = () => {
           <h2 className="text-2xl font-bold text-center py-8">Premium Plan</h2>
           <p className="text-center text-4xl font-bold">$199</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">Multi-Account Management</p>
+            <p className="py-2 border-b mx-8">Custom Reports</p>
+            <p className="py-2 border-b mx-8">Priority Support</p>
           </div>
           <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial

@@ -7,9 +7,9 @@ const About = () => {
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2">
         <img className="w-[300px] mx-auto my-4" src={Search} alt="/" />
         <div className="flex flex-col justify-center">
-          <p className="text-[#00df9a] font-bold ">DATA ANALYTICS DASHBOARD</p>
+          <p className="text-[#F53838] font-bold ">FINANCE TRACKER DASHBOARD</p>
           <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
-            Manage Data Analytics Centrally
+            Manage Finance Centrally
           </h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
@@ -17,7 +17,7 @@ const About = () => {
             dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
             eveniet ex deserunt fuga?
           </p>
-          <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
+          <button className="bg-black text-[#F53838] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
             Get Started
           </button>
         </div>
