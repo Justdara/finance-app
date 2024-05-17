@@ -18,7 +18,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">Basic Budgeting</p>
             <p className="py-2 border-b mx-8">Reports and Insights</p>
           </div>
-          <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-[#F53838] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
           </button>
         </div>
@@ -35,7 +35,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">Savings Goals</p>
             <p className="py-2 border-b mx-8">Export Data</p>
           </div>
-          <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-black text-[#F53838] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
           </button>
         </div>
@@ -52,7 +52,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">Custom Reports</p>
             <p className="py-2 border-b mx-8">Priority Support</p>
           </div>
-          <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-[#F53838] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
           </button>
         </div>
